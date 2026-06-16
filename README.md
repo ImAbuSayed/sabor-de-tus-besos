@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-de-tus-besos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sabor de tus besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-de-tus-besos/) |
+| **Get License** | [Obtain a Music License for Sabor de tus besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-de-tus-besos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ab4c5065374ee1dd7db208ece205767fce7e46843da20d607b6ff190781c757d` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

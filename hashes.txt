@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sabor de tus besos
+
+This log tracks the cryptographic history and versioning for the song **Sabor de tus besos** (sabor-de-tus-besos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:21:29.918987 | `v1` | `ab4c5065374ee1dd7db208ece205767fce7e46843da20d607b6ff190781c757d` | `27e031f130d5fc30edee34463ab2801450aaeda0ee383d6b4b55e6b5abf20a90` | `2026-06-16_sabor-de-tus-besos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
