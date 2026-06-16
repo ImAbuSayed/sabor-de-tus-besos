@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-de-tus-besos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sabor de tus besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-de-tus-besos/) |
+| **Get License** | [Get a Licensing Quote for Sabor de tus besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-de-tus-besos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> El sabor de tus besos me tiene en un viaje
+> Una noche de locura, sin llevar equipaje
+> Tu mirada me provoca, me invita a pecar
+> En la disco estamos solos, no te voy a soltar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
